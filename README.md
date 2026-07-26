@@ -1,6 +1,6 @@
 # Hi, I'm Liubomyr 👋
 
-Senior Data Engineer @ [KyivstarTech](https://kyivstar.tech) · [LinkedIn](https://www.linkedin.com/in/liubomyr-antonyk/) · United Kingdom
+Data Engineer @ [KyivstarTech](https://kyivstar.tech) · [LinkedIn](https://www.linkedin.com/in/liubomyr-antonyk/) · United Kingdom
 
 I'm a developer from Ukraine who builds large-scale data systems and pipelines. I use tools like Claude Code daily, but I read every diff before it ships.
 
